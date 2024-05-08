@@ -1,0 +1,10 @@
+C:\Users\lavan\Desktop\KTEAM\Tool GenMail\Tool GenMail\bin\Debug\Tool GenMail.exe.config
+C:\Users\lavan\Desktop\KTEAM\Tool GenMail\Tool GenMail\bin\Debug\Tool GenMail.exe
+C:\Users\lavan\Desktop\KTEAM\Tool GenMail\Tool GenMail\bin\Debug\Tool GenMail.pdb
+C:\Users\lavan\Desktop\KTEAM\Tool GenMail\Tool GenMail\obj\Debug\Tool GenMail.csproj.AssemblyReference.cache
+C:\Users\lavan\Desktop\KTEAM\Tool GenMail\Tool GenMail\obj\Debug\Tool_GenMail.Form1.resources
+C:\Users\lavan\Desktop\KTEAM\Tool GenMail\Tool GenMail\obj\Debug\Tool_GenMail.Properties.Resources.resources
+C:\Users\lavan\Desktop\KTEAM\Tool GenMail\Tool GenMail\obj\Debug\Tool GenMail.csproj.GenerateResource.cache
+C:\Users\lavan\Desktop\KTEAM\Tool GenMail\Tool GenMail\obj\Debug\Tool GenMail.csproj.CoreCompileInputs.cache
+C:\Users\lavan\Desktop\KTEAM\Tool GenMail\Tool GenMail\obj\Debug\Tool GenMail.exe
+C:\Users\lavan\Desktop\KTEAM\Tool GenMail\Tool GenMail\obj\Debug\Tool GenMail.pdb
